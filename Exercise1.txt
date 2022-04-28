@@ -2,3 +2,5 @@
 -How many sides does a triangle have?
 -What is a square?
 -What is a hypercube?
+-What is a hypercube?
+-How many edges does a cube have?
