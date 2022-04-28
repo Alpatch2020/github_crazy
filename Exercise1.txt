@@ -1,3 +1,4 @@
 -Who is the oldest Head of state?
 -What is a hypercube?
 -How many edges does a cube have?
+-What is a hexagon?
