@@ -1,0 +1,3 @@
+A square is a four sided figure with sides of equal length
+-Google the rest
+-Ensure you work with love
